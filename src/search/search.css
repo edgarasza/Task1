@@ -1,0 +1,14 @@
+.search-container {
+  text-align: center;
+}
+
+.search-field {
+  width: 240px;
+  margin-top: 40px;
+}
+
+.search-button {
+  margin-top: 16px !important;
+  height: 40px;
+  width: 80px;
+}
